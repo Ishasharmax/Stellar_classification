@@ -2,6 +2,7 @@
 A supervised classification task to predict star type based on Surface Temperature (in K), Luminosity (measured with respect to that of Sun), Radius (measured with respect to that of Sun), Absolute Magnitude (Visual), Star Color, & Spectral Class.
 
 ![HR](stellar-classification-chart.jpg)
+![HR](HRmetrics.jpg)
 
 #### The types of stars predicted at the end of training the model are:
 1. Brown Dwarf (0)
