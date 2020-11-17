@@ -1,9 +1,6 @@
 # Stellar Classification using Deep Learning techniques
 A supervised classification task to predict star type based on Surface Temperature (in K), Luminosity (measured with respect to that of Sun), Radius (measured with respect to that of Sun), Absolute Magnitude (Visual), Star Color, & Spectral Class.
 
-## Purpose:
-The purpose of making the dataset is to prove that the stars follows a certain graph in the celestial Space, specifically called Hertzsprung-Russell Diagram or simply HR-Diagram, so that we can classify stars by plotting its features based on that graph.
-
 ![HR](stellar-classification-chart.jpg)
 ![HR](HRmetrics.jpg)
 
