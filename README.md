@@ -22,7 +22,6 @@ The dataset is created based on several equations in astrophysics. They are give
 2. [Wienn's Displacement law](http://hosting.astro.cornell.edu/academics/courses/astro201/wiens_law.htm) (for finding surface temperature of a star using wavelength)
 3. [Absolute magnitude relation](http://astrosun2.astro.cornell.edu/academics/courses/astro201/mag_absolute.htm)
 4. Radius of a star using parallax.
-5. The dataset took 3 weeks to collect for 240 stars which are mostly collected from web.
 6. The missing data were manually calculated using those equations of astrophysics given above.
 
 ## Inspiration
