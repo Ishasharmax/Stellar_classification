@@ -15,6 +15,16 @@ A supervised classification task to predict star type based on Surface Temperatu
 ## Dataset Source 
 https://www.kaggle.com/deepu1109/star-dataset
 
+#### Data Collection and Preparation techniques:
+The dataset is created based on several equations in astrophysics. They are given below:
+
+1. [Stefan-Boltzmann's law](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/stefan.html) of Black body radiation (To find the luminosity of a star)
+2. [Wienn's Displacement law](http://hosting.astro.cornell.edu/academics/courses/astro201/wiens_law.htm) (for finding surface temperature of a star using wavelength)
+3. [Absolute magnitude relation](http://astrosun2.astro.cornell.edu/academics/courses/astro201/mag_absolute.htm)
+4. Radius of a star using parallax.
+5. The dataset took 3 weeks to collect for 240 stars which are mostly collected from web.
+6. The missing data were manually calculated using those equations of astrophysics given above.
+
 ## Inspiration
 Interest in Astronomy & Stellar Evolution
 
