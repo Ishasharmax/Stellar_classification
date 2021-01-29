@@ -1,8 +1,8 @@
 # Stellar Classification using Deep Learning techniques
 A supervised classification task to predict star type based on Surface Temperature (in K), Luminosity (measured with respect to that of Sun), Radius (measured with respect to that of Sun), Absolute Magnitude (Visual), Star Color, & Spectral Class.
 
-![HR](stellar-classification-chart.jpg | width=100)
-![HR](HRmetrics.jpg | width=100)
+<img width="200" alt="hr" src="HRmetrics.jpg">
+<img width="200" alt="hr" src="stellar-classification-chart.jpg">
 
 #### The types of stars predicted at the end of training the model are:
 1. Brown Dwarf (0)
